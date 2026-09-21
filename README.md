@@ -34,9 +34,10 @@ Frontend Web Developer focused on building clean, responsive, and user-friendly 
 - 🐦 X (Twitter): https://x.com/ElamJustice
 
 ## 📌 Featured Projects
-- **[🎬 Movie Library](https://github.com/JusticeElam/movie-library/)** — A movie browsing project built with CSS || **[View Code](https://github.com/JusticeElam/Movie_Library)**
-- **[🌦️ Weather Forecast](https://github.com/JusticeElam/weather-forecast/)** — A weather app built with CSS || ** [View Code](https://github.com/JusticeElam/Weather_Forecast)**
-- **[🧮 Web Calculator](https://github.com/JusticeElam/web-calculator/)** — A functional calculator built with HTML || ** [View Code](https://github.com/JusticeElam/Web_Calculator)**
+
+* [🎬 Movie Library](https://justiceelam.github.io/movie-library/) — A movie browsing project built with CSS | **[View Code](https://github.com/JusticeElam/movie-library)**
+* [🌦️ Weather Forecast](https://justiceelam.github.io/weather-forecast/) — A weather app built with CSS | **[View Code](https://github.com/JusticeElam/weather-forecast)**
+* [🧮 Web Calculator](https://justiceelam.github.io/web-calculator/) — A functional calculator built with HTML | **[View Code](https://github.com/JusticeElam/web-calculator)**
 
 ---
 💡 Always learning, always building. Open to internships, freelance work, and collaborations.
